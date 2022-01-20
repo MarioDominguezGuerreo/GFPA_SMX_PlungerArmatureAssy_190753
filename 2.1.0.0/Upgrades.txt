@@ -1,0 +1,13 @@
+1. 	1.2,	05/May/2021,		DOGMA,	A13715-CP,	Added Result Codes.
+2. 	1.2, 	05/May/2021,		DOGMA,	A13715-CP,	Added Lot ID into the result history.
+3.	1.3,	01/June/2021,		DOGMA,	A13715-CP,	Added Master sequence.
+3. 	1.3, 	04/June/2021,		DOGMA,	A14559-CP,	Added Vision System Management.
+4.	1.3,	26/June/2021,		DOGMA,	A13715-CP,	Added Device ID list from DB. 
+5.	1.3,	30/June/2021,		DOGMA,			Update the SQLDatabase Class.
+6.	1.3,	08/August/2021,		DOGMA,			Modification of SQL Server Name = SAGPSQLDB01 (MachineConfig.CSV)
+7.	1.4,	15/August/2021,		DOGMA,	A15172-CP,	Component Lot Traceability
+								New store procedures: cmp.CheckComponents
+									      cmp.AssignComponentToSerialID
+8.	1.4,	16/August/2021,		DOGMA,	A14556-CP,	Once the screwdriver results have been received, the screwdriver is disabled.
+9.	1.5,	12/September/2021,	DOGMA,	A14556-CP,	Added the clamp torque, seating point torque results.
+10.	1.6,	25/September/2021,	DOGMA,	A14556-CP,	Added the clamp angle results.	
