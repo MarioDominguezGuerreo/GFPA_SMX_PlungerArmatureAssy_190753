@@ -1,1 +1,0 @@
-# GFPA_STX_PlungerArmatureAssy_MECH190753
