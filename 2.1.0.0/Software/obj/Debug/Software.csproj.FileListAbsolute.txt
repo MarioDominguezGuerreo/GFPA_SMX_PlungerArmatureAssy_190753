@@ -1,0 +1,2 @@
+C:\Users\a1067051\source\repos\GFPA_STX_PlungerArmatureAssy_MECH190753\2.1.0.0\Software\bin\Debug\Software.exe.config
+C:\Users\a1067051\source\repos\GFPA_SMX_PlungerArmatureAssy_190753\2.1.0.0\Software\bin\Debug\Software.exe.config
